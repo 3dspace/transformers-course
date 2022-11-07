@@ -1,0 +1,14 @@
+python -m venv .env
+
+
+# Activate the virtual environment
+source .env/bin/activate *
+( *just use > activate )
+
+# Deactivate the virtual environment
+source .env/bin/deactivate
+
+which python (haven't found the Windoze equivalent yet)
+py --list-paths?? no.
+
+
